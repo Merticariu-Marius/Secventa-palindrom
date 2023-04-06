@@ -1,4 +1,4 @@
-# Secventa-palindrom
+# Proiect Got
 In acest exercitu am proiect am fost nevoiti sa facem un program care sa verifice o secventa introdusa de la tastatura si sa ne indice daca secventa dupa ce este rearanjata poate fi sau nu palindrom.
 
 Cerinta:
